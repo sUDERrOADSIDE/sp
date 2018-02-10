@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-int a,b,i;
+int a,b,c;
 printf("enter the two numbers");
 scanf("%d%d",&a,&b);
-for(i=a;a<=b;a++)
+for(c=a;a<=b;a++)
 {
 if(a%2!=0)
 {
